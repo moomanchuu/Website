@@ -3,7 +3,6 @@ Hi! Welcome to my website. The if you're on this page, the link to the website c
 A general outline of the website can be found as follows:
 
 # About Me
----
 School / Education, email
 Overview of Current Interests
 Personal Story (ish)
@@ -14,15 +13,12 @@ Link to Movies Tab
 
 
 # Current Interests
----
 Overview of some topics that I am doing research in / studying during personal time
 
 # Literature Review
----
 List of interesting papers I have read, with short summaries and takeaways
 
 # Artistic Analysis
----
 Personal thoughts / analysis on some of my favorite artists / pieces. 
 The art forms range across different media including:
 - music
@@ -31,12 +27,10 @@ The art forms range across different media including:
 - art
 
 # Highschool Outreach
----
 Updates / Overview on the outreach to underrepresented groups and highschools I have set up through the club Society of Physics Students (SPS) at UCI. 
 I'm very proud to be able to do this and I want to continue doing this into graduate school. Primarily, I would want to setup a program similar to Adventures in Physics. 
 
 # Physics Journal Club??
----
 Updates / Overview on the Physics Journal club I want to start with Luke at UCI. 
 Roughly it should follow:
 - Similar to a Directed Reading program. Except it will be everyone coming together, deciding a topic to learn about. 
@@ -45,7 +39,6 @@ Roughly it should follow:
 - Very similar to what Edna did at Princeton
 
 # BTD6 Farming 
----
 A step by step guide on how to farm a ton of money in the game Bloons Tower Defense 6. 
 
 Personal Opinion:
