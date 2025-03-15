@@ -9,6 +9,7 @@ Personal Story (ish)
 CV / Coursework
 Favorite Books
 Cool Phenomena
+Favorite Unsolved Problems (Maybe my opinions)
 Link to Movies Tab
 
 
