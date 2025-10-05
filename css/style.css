@@ -18,7 +18,7 @@ body {background-color: rgb(255, 250, 212);}
 }
 
 .float-image img {
-  width: 100%; /* fills the 150px width */
+  width: 100%;
   height: auto;
   border-radius: 2px;
   display: block; /* prevent extra space below image */
@@ -33,5 +33,5 @@ body {background-color: rgb(255, 250, 212);}
 }
 
 .content_wrap {
-    margin-right: 5%;
+    margin-right: 10%;
 }
