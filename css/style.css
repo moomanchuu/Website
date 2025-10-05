@@ -1,3 +1,8 @@
 /*light blue */
 /* body {background-color: rgb(212, 244, 255);}*/
 body {background-color: rgb(255, 250, 212);} 
+
+.flex-container {
+    display: flex;
+    justify-content: space-around;
+}
