@@ -18,7 +18,7 @@ body {background-color: rgb(255, 250, 212);}
 .float-image img {
   width: 100%; /* fills the 150px width */
   height: auto;
-  border-radius: 8px;
+  border-radius: 20px;
   display: block; /* prevent extra space below image */
 }
 
