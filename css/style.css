@@ -11,14 +11,14 @@ body {background-color: rgb(255, 250, 212);}
   float: right;
   width: 25vw;
   min-width: 130px;
-  margin: -20px 0 20px 20px;
-  border-radius: 15px;
+  margin: -20px 0 40px 40px;
+  border-radius: 2px;
 }
 
 .float-image img {
   width: 100%; /* fills the 150px width */
   height: auto;
-  border-radius: 20px;
+  border-radius: 2px;
   display: block; /* prevent extra space below image */
 }
 
