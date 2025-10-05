@@ -14,3 +14,22 @@ body {background-color: rgb(255, 250, 212);}
   margin: -20px 0 20px 20px;
   border-radius: 15px;
 }
+
+.float-image img {
+  width: 100%; /* fills the 150px width */
+  height: auto;
+  border-radius: 8px;
+  display: block; /* prevent extra space below image */
+}
+
+.float-image figcaption {
+  margin-top: 5px;
+}
+
+.preformatted {
+    white-space: pre;
+}
+
+.links {
+    padding-right: 2em;
+}
